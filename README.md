@@ -8,5 +8,5 @@ hgjwilly-koreatech/hgjwilly-koreatech is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-![willy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgjwilly-koreatech&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgjwilly-koreatech&layout=compact&theme=dracula)
+![willy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgjwilly-koreatech&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgjwilly-koreatech&layout=compact&theme=default)
