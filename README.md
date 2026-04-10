@@ -7,4 +7,4 @@ You can click the Preview link to take a look at your changes.
 
 ## History
 BCSD 2025.09 ~ <br>
-DND 2025.12 ~
+DND 2025.12 ~ 2026.02
